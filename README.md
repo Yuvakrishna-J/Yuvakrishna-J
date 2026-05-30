@@ -1,8 +1,6 @@
-
-[README.md](https://github.com/user-attachments/files/28420436/README.md)
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=YUVAKRISHNA+J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI+%26+Data+Science+Engineer+%7C+IEEE+Best+Paper+Awardee+%7C+Builder+of+Intelligent+Systems&descAlignY=62&descSize=16)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=YUVAKRISHNA%20J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20and%20Data%20Science%20Engineer%20%7C%20IEEE%20Best%20Paper%20Awardee&descAlignY=62&descSize=18" width="100%"/>
 
 </div>
 
@@ -49,7 +47,7 @@ class YuvaKrishnaJ:
         self.currently_learning = [
             "Advanced LLM Fine-tuning",
             "Cloud Deployment (AWS / GCP)",
-            "System Design for ML at Scale"
+            
         ]
 
         self.published = {
@@ -118,10 +116,10 @@ print(me.motto())
 <div align="center">
 
 <a href="https://github.com/Yuvakrishna-J">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuvakrishna-J&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuvakrishna-J&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800"/>
 </a>
 <a href="https://github.com/Yuvakrishna-J">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvakrishna-J&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvakrishna-J&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
 </a>
 
 </div>
@@ -152,7 +150,7 @@ print(me.motto())
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yuvakrishna-J&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yuvakrishna-J&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -242,7 +240,7 @@ I'm a **final-year student (Batch 2026)** looking to turn IEEE-award-winning res
 |:--------------:|:-------:|
 | AI / ML Engineer | Full-time · Fresher |
 | Data Science | Full-time · Fresher |
-| Data analyst | Full-time · Fresher |
+| Data Analyst | Full-time · Fresher |
 | Software Development Engineer (SDE) | Full-time · Fresher |
 | ML Research Engineer | Full-time · Fresher |
 
@@ -269,12 +267,11 @@ I'm a **final-year student (Batch 2026)** looking to turn IEEE-award-winning res
 ## 🧠 Currently Learning
 
 ```
-🔥 LLM Fine-tuning        →  LoRA · QLoRA · PEFT · Instruction Tuning
-☁️ Cloud Deployment       →  AWS SageMaker · GCP Vertex AI · Docker
-🏗️ System Design          →  ML System Design · Scalable APIs · Microservices
-🔎 Advanced RAG           →  Multi-hop RAG · Graph RAG · Hybrid Search
-📐 Vector Databases       →  Pinecone · Weaviate · Advanced ChromaDB Patterns
-🐳 MLOps                  →  MLflow · CI/CD Pipelines · Model Monitoring
+🔥 LLM Fine-tuning        →  Instruction Tuning
+☁️ Cloud Deployment       →  GCP Bigquery · AWS
+🔎 Advanced RAG           →  Hybrid Search
+📐 Vector Databases       →  Advanced ChromaDB Patterns
+🐳 MLOps                  →  CI/CD Pipelines · Model Monitoring
 ```
 
 ---
@@ -293,4 +290,4 @@ I'm a **final-year student (Batch 2026)** looking to turn IEEE-award-winning res
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" width="100%"/>
