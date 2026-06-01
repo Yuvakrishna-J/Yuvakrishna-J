@@ -115,12 +115,8 @@ print(me.motto())
 
 <div align="center">
 
-<a href="https://github.com/Yuvakrishna-J">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuvakrishna-J&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800"/>
-</a>
-<a href="https://github.com/Yuvakrishna-J">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvakrishna-J&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
-</a>
+| [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yuvakrishna-J&theme=tokyonight)](https://github.com/Yuvakrishna-J) | [![Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yuvakrishna-J&theme=tokyonight)](https://github.com/Yuvakrishna-J) |
+|:---:|:---:|
 
 </div>
 
@@ -141,16 +137,6 @@ print(me.motto())
 <div align="center">
 
 [![Yuvakrishna's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yuvakrishna-J&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Yuvakrishna-J)
-
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yuvakrishna-J&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -194,7 +180,7 @@ print(me.motto())
 
 ## 📰 Research & Publications
 
-> *Alternate section — replaces Hackathons. Highlights published IEEE research.*
+
 
 <div align="center">
 
@@ -230,7 +216,7 @@ print(me.motto())
 
 ## 🔭 Open to Opportunities
 
-> *Alternate section — since I'm a 2026 fresher actively seeking my first full-time role.*
+> *since I'm a 2026 fresher actively seeking my first full-time role.*
 
 <div align="center">
 
