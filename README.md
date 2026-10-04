@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=YUVAKRISHNA%20J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20and%20Data%20Science%20Engineer%20%7C%20IEEE%20Best%20Paper%20Awardee&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=YUVAKRISHNA%20J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI%20%7C%20IEEE%20Best%20Paper%20Awardee&descAlignY=62&descSize=18" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Engineer;Building+RAG+%7C+NLP+%7C+ML+Systems;IEEE+AIMLA+2026+Best+Paper+Awardee;Open+to+AI%2FML+%26+SDE+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI;ETL+Pipelines+%7C+BI+Dashboards+%7C+Analytics;IEEE+AIMLA+2026+Best+Paper+Awardee;Open+to+Data+Analyst+%26+Data+Science+Roles)](https://git.io/typing-svg)
 
 </div>
 
@@ -36,31 +36,29 @@ class YuvaKrishnaJ:
         self.name     = "Yuvakrishna J"
         self.location = "Chennai, Tamil Nadu, India 🇮🇳"
         self.degree   = "B.Tech CS (AI & Data Science) @ HITS"
-        self.cgpa     = 9.00
+        self.cgpa     = 9.06
 
         self.stack = [
-            "Python", "TensorFlow", "Scikit-learn",
-            "Streamlit", "Flask", "ChromaDB",
-            "Hugging Face", "RAG Pipelines"
+            "Python", "SQL", "Power BI",
+            "Pandas", "NumPy", "MySQL",
+            "DAX", "ETL Pipelines"
         ]
 
         self.currently_learning = [
-            "Advanced LLM Fine-tuning",
-            "Cloud Deployment (AWS / GCP)",
-            
+            "Advanced DAX & Power Query",
+            "GCP BigQuery · AWS Redshift",
         ]
 
         self.published = {
-            "paper"    : "AURA – Neuro-Symbolic Mental Health AI",
-            "conf"     : "IEEE AIMLA 2026",
-            "result"   : "🏆 Best Paper (Top 1 / 320+ submissions)",
-            "accuracy" : "95%"
+            "paper"  : "AURA – Neuro-Symbolic AI Conversational Agent",
+            "conf"   : "IEEE AIMLA 2026",
+            "result" : "🏆 Best Paper (Top ~10% of 320+ submissions)",
         }
 
-        self.fun_fact = "My AI beat 320+ papers to win Best Paper at IEEE 🏆"
+        self.fun_fact = "My AI won Best Paper at IEEE AIMLA 2026 🏆"
 
     def motto(self):
-        return "Build AI that matters. Ship code that scales. 🚀"
+        return "Turn raw data into decisions. Build analytics that scale. 📊"
 
 me = YuvaKrishnaJ()
 print(me.motto())
@@ -75,38 +73,45 @@ print(me.motto())
 **🐍 Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**📊 Data Analysis & BI**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC2927?style=flat-square&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**🔍 Core Analytics Techniques**
+
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-20B2AA?style=flat-square&logo=python&logoColor=white)
+![Cohort Analysis](https://img.shields.io/badge/Cohort%20Analysis-7C3AED?style=flat-square&logo=googleanalytics&logoColor=white)
+![KPI Modeling](https://img.shields.io/badge/KPI%20Modeling-0EA5E9?style=flat-square&logo=powerbi&logoColor=white)
+![ETL Automation](https://img.shields.io/badge/ETL%20Automation-F97316?style=flat-square&logo=apacheairflow&logoColor=white)
+![Window Functions](https://img.shields.io/badge/Window%20Functions-1D4ED8?style=flat-square&logo=mysql&logoColor=white)
+![CTEs](https://img.shields.io/badge/CTEs-DC2626?style=flat-square&logo=mysql&logoColor=white)
 
 **🤖 AI & Machine Learning**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-7C3AED?style=flat-square&logo=openai&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=flat-square&logo=openai&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-10B981?style=flat-square&logo=openai&logoColor=white)
+![RAG Architecture](https://img.shields.io/badge/RAG%20Architecture-7C3AED?style=flat-square&logo=openai&logoColor=white)
 
-**📊 Data & Analytics**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-7C3AED?style=flat-square&logo=databricks&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-**⚙️ Frameworks & Tools**
+**⚙️ Tools & Frameworks**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
@@ -169,10 +174,10 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
-| [🧠 **AURA** — AI Mental Health Agent](https://github.com/Yuvakrishna-J) | Python · RAG · T5-Small · DistilRoBERTa · ChromaDB · AES-256 | 🏆 **IEEE Best Paper** (Top 1 / 320+) &bull; **95% accuracy** &bull; AES-256 encryption &bull; Gemini API fallback |
-| [📚 **Automated Data Pipeline & AI Tutor**](https://github.com/Yuvakrishna-J) | Python · Streamlit · Gemini API · RegEx | **86% extraction accuracy** on JEE/NEET PDFs &bull; Socratic AI reasoning engine |
-| [🎬 **Hybrid Movie Recommender**](https://github.com/Yuvakrishna-J) | Python · Scikit-learn · Streamlit · TMDb API · Pandas | Cosine similarity &bull; Live API integration &bull; Auto-personalized content delivery |
-| [🌐 **Multilingual Sentiment Engine**](https://github.com/Yuvakrishna-J) | Python · TensorFlow · LSTM · Deep Learning · Pandas | LSTM on multilingual unstructured text &bull; End-to-end NLP pipeline optimization |
+| [🛒 **E-Commerce Data Engineering & BI Pipeline**](https://github.com/Yuvakrishna-J) | Python · SQLAlchemy · MySQL · Power BI · DAX | **5,000+ records** ingested &bull; Normalized 3-table schema &bull; GMV dashboard &bull; Cohort segmentation (Active / At Risk / Churned) |
+| [📦 **B2B SaaS Customer Retention & Data Quality Pipeline**](https://github.com/Yuvakrishna-J) | Python · MySQL 8.0 · Pandas · NumPy | **33,000+ transactions** · **5,000 users** &bull; **400+ duplicates quarantined** via CTEs &bull; M3 retention rate **72%–76%** |
+| [🧠 **AURA** — Neuro-Symbolic AI Conversational Agent](https://github.com/Yuvakrishna-J) | Python · RAG · T5-Small · DistilRoBERTa · ChromaDB | 🏆 **IEEE Best Paper** (AIMLA 2026) &bull; Top ~10% of 320+ submissions &bull; TF-IDF safety guardrails &bull; Gemini API fallback |
+| [📚 **Evo11ve** — Automated Educational Data Pipeline](https://github.com/Yuvakrishna-J) | Python · RegEx · Streamlit · Gemini API | **86% extraction accuracy** on JEE/NEET PDFs &bull; Socratic AI reasoning engine |
 
 </div>
 
@@ -180,21 +185,21 @@ print(me.motto())
 
 ## 📰 Research & Publications
 
-
+> *Alternate section — replaces Hackathons. Highlights published IEEE research.*
 
 <div align="center">
 
 | Award | Paper Title | Venue | Outcome |
 |:-----:|:------------|:-----:|:-------:|
-| 🥇 **Best Paper Award** | AURA: AI-Powered Neuro-Symbolic Mental Health Support Agent | IEEE Intl. Conference on AI, ML & Logic-based Applications (AIMLA 2026) | **#1 out of 320+ submissions** |
+| 🥇 **Best Paper Award** | AURA: Neuro-Symbolic AI Conversational Agent | IEEE Intl. Conference on AI, ML & Logic-based Applications (AIMLA 2026) | **Top ~10% of 320+ submissions** |
 
 </div>
 
 **Key Technical Contributions:**
 
-- Architected a **cascaded RAG pipeline** combining DistilRoBERTa + T5-Small to achieve **95% diagnostic accuracy**
-- Engineered a **deterministic TF-IDF / Random Forest crisis detection bypass** to guarantee clinical safety
-- Implemented **AES-256 end-to-end encryption** with a Gemini API fallback for continuous uptime
+- Architected a **RAG pipeline** integrating DistilRoBERTa + ChromaDB for optimized vector retrieval with a fine-tuned T5 model for NLP tasks
+- Implemented **TF-IDF safety guardrails** and a Gemini API fallback mechanism to ensure output reliability and risk mitigation
+- Demonstrated strong **data validation and analytical thinking** applicable to production analytics systems
 
 ---
 
@@ -204,11 +209,12 @@ print(me.motto())
 
 | 🏅 | Achievement | Details |
 |:--:|:------------|:--------|
-| 🏆 | **IEEE AIMLA 2026 — Best Paper Award** | Ranked **#1 out of 320+ submissions** — AURA Neuro-Symbolic Mental Health AI |
-| 🤖 | **95% Model Accuracy** | Achieved via cascaded RAG + DistilRoBERTa + T5-Small in AURA |
-| 📖 | **86% Extraction Accuracy** | Automated RegEx pipeline for unstructured JEE/NEET PDFs, eliminating manual entry |
+| 🏆 | **IEEE AIMLA 2026 — Best Paper Award** | Top ~10% of 320+ submissions — AURA Neuro-Symbolic AI Conversational Agent |
+| 🗄️ | **ETL Pipeline — 5,000+ Records Automated** | Engineered E-Commerce data pipeline with normalized 3-table MySQL schema + Power BI GMV dashboard |
+| 🔍 | **400+ Duplicates Quarantined** | B2B SaaS data quality pipeline from 33,000+ transactions using MySQL 8.0 CTEs and ROW_NUMBER() |
+| 📖 | **86% Extraction Accuracy** | Automated RegEx pipeline for unstructured JEE/NEET PDFs — Evo11ve project |
 | 📈 | **~35% Brand Visibility Boost** | Data-driven SEO strategy for Ramsi Construction, tracked via web analytics |
-| 🎓 | **CGPA: 9.00 / 10.0** | B.Tech CS (AI & Data Science) — Top performer at Hindustan Institute of Technology & Science |
+| 🎓 | **CGPA: 9.06 / 10.0** | B.Tech CS (AI & Data Science) — Top performer at Hindustan Institute of Technology & Science |
 
 </div>
 
@@ -216,7 +222,7 @@ print(me.motto())
 
 ## 🔭 Open to Opportunities
 
-> *since I'm a 2026 fresher actively seeking my first full-time role.*
+> *Alternate section — since I'm a 2026 fresher actively seeking my first full-time role.*
 
 <div align="center">
 
@@ -224,11 +230,10 @@ I'm a **final-year student (Batch 2026)** looking to turn IEEE-award-winning res
 
 | 💼 Target Role | 🔍 Type |
 |:--------------:|:-------:|
-| AI / ML Engineer | Full-time · Fresher |
-| Data Science | Full-time · Fresher |
 | Data Analyst | Full-time · Fresher |
-| Software Development Engineer (SDE) | Full-time · Fresher |
-| ML Research Engineer | Full-time · Fresher |
+| Data Scientist | Full-time · Fresher |
+| Business Analyst | Full-time · Fresher |
+| Data Engineer | Full-time · Fresher |
 
 [![LinkedIn](https://img.shields.io/badge/Let%27s+Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuva-krishna-j)
 &nbsp;
@@ -244,7 +249,7 @@ I'm a **final-year student (Batch 2026)** looking to turn IEEE-award-winning res
 
 | Degree | Institution | Year | Score |
 |:------:|:-----------:|:----:|:-----:|
-| 🎓 B.Tech — Computer Science (AI & Data Science) | Hindustan Institute of Technology & Science | 2022 – 2026 | ⭐ **9.00 / 10.0** |
+| 🎓 B.Tech — Computer Science (AI & Data Science) | Hindustan Institute of Technology & Science | 2022 – 2026 | ⭐ **9.06 / 10.0** |
 
 </div>
 
@@ -253,18 +258,18 @@ I'm a **final-year student (Batch 2026)** looking to turn IEEE-award-winning res
 ## 🧠 Currently Learning
 
 ```
-🔥 LLM Fine-tuning        →  Instruction Tuning
-☁️ Cloud Deployment       →  GCP Bigquery · AWS
-🔎 Advanced RAG           →  Hybrid Search
-📐 Vector Databases       →  Advanced ChromaDB Patterns
-🐳 MLOps                  →  CI/CD Pipelines · Model Monitoring
+📊 Advanced Power BI      →  DAX · Power Query · Star Schema Modeling
+🗄️ SQL Mastery            →  Window Functions · CTEs · Query Optimization
+📈 Analytics Techniques   →  Cohort Analysis · A/B Testing · KPI Modeling
+☁️ Cloud Analytics        →  GCP BigQuery · AWS Redshift
+🐍 Python for Analytics   →  NumPy · SciPy · Advanced Pandas
 ```
 
 ---
 
 <div align="center">
 
-*"Build AI that matters. Ship code that scales."* 🚀
+*"Turn raw data into decisions. Build analytics that scale."* 📊
 
 **Let's connect and build something amazing together!**
 
