@@ -137,16 +137,6 @@ print(me.motto())
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Yuvakrishna's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yuvakrishna-J&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Yuvakrishna-J)
-
-</div>
-
----
-
 ## 💼 Work Experience
 
 <details>
@@ -174,12 +164,39 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
-| [🛒 **E-Commerce Data Engineering & BI Pipeline**](https://github.com/Yuvakrishna-J) | Python · SQLAlchemy · MySQL · Power BI · DAX | **5,000+ records** ingested &bull; Normalized 3-table schema &bull; GMV dashboard &bull; Cohort segmentation (Active / At Risk / Churned) |
-| [📦 **B2B SaaS Customer Retention & Data Quality Pipeline**](https://github.com/Yuvakrishna-J) | Python · MySQL 8.0 · Pandas · NumPy | **33,000+ transactions** · **5,000 users** &bull; **400+ duplicates quarantined** via CTEs &bull; M3 retention rate **72%–76%** |
-| [🧠 **AURA** — Neuro-Symbolic AI Conversational Agent](https://github.com/Yuvakrishna-J) | Python · RAG · T5-Small · DistilRoBERTa · ChromaDB | 🏆 **IEEE Best Paper** (AIMLA 2026) &bull; Top ~10% of 320+ submissions &bull; TF-IDF safety guardrails &bull; Gemini API fallback |
-| [📚 **Evo11ve** — Automated Educational Data Pipeline](https://github.com/Yuvakrishna-J) | Python · RegEx · Streamlit · Gemini API | **86% extraction accuracy** on JEE/NEET PDFs &bull; Socratic AI reasoning engine |
+| [🛒 **E-Commerce Data Engineering & BI Pipeline**](https://github.com/Yuvakrishna-J/ecommerce-data-pipeline-bi) | Python · SQLAlchemy · MySQL · Power BI · DAX | **5,000+ records** ingested &bull; Normalized 3-table schema &bull; GMV dashboard &bull; Cohort segmentation (Active / At Risk / Churned) |
+| [📦 **B2B SaaS Customer Retention & Data Quality Pipeline**](https://github.com/Yuvakrishna-J/b2b-saas-retention-pipeline) | Python · MySQL 8.0 · Pandas · NumPy | **33,000+ transactions** · **5,000 users** &bull; **400+ duplicates quarantined** via CTEs &bull; M3 retention rate **72%–76%** |
+| [🧠 **AURA** — Neuro-Symbolic AI Conversational Agent](https://github.com/Yuvakrishna-J/AURA-NeuroSymbolic-Chatbot) | Python · RAG · T5-Small · DistilRoBERTa · ChromaDB | 🏆 **IEEE Best Paper** (AIMLA 2026) &bull; Top ~10% of 320+ submissions &bull; TF-IDF safety guardrails &bull; Gemini API fallback |
+| [📚 **Evo11ve** — Automated Educational Data Pipeline](https://github.com/Yuvakrishna-J/Automated-Data-Pipeline-AI-Tutor) | Python · RegEx · Streamlit · Gemini API | **86% extraction accuracy** on JEE/NEET PDFs &bull; Socratic AI reasoning engine |
 
 </div>
+
+<br/>
+
+<details>
+<summary><b>📊 Live Dashboard Preview — E-Commerce BI Pipeline (Power BI · Click to expand)</b></summary>
+
+<br/>
+
+<div align="center">
+
+**🌍 All Countries — Full Overview**
+
+<img src="https://raw.githubusercontent.com/Yuvakrishna-J/Yuvakrishna-J/main/assets/dashboard-all.png" width="820" style="border-radius:8px"/>
+
+<br/><br/>
+
+**🇬🇧 Filtered View — UK (Dynamic Slicer in action)**
+
+<img src="https://raw.githubusercontent.com/Yuvakrishna-J/Yuvakrishna-J/main/assets/dashboard-uk.png" width="820" style="border-radius:8px"/>
+
+<br/>
+
+> 💡 *Built in Power BI — tracks Total Revenue · Total Orders · Customer Churn states (Active / At Risk / Churned) · Revenue Over Time · Top Products by GMV. Country slicer updates all visuals dynamically.*
+
+</div>
+
+</details>
 
 ---
 
