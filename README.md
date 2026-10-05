@@ -182,13 +182,13 @@ print(me.motto())
 
 **🌍 All Countries — Full Overview**
 
-<img src="https://raw.githubusercontent.com/Yuvakrishna-J/Yuvakrishna-J/main/assets/dashboard-all.png" width="820" style="border-radius:8px"/>
+<img src="https://raw.githubusercontent.com/Yuvakrishna-J/Yuvakrishna-J/main/dashboard-all.png" width="820" style="border-radius:8px"/>
 
 <br/><br/>
 
 **🇬🇧 Filtered View — UK (Dynamic Slicer in action)**
 
-<img src="https://raw.githubusercontent.com/Yuvakrishna-J/Yuvakrishna-J/main/assets/dashboard-uk.png" width="820" style="border-radius:8px"/>
+<img src="https://raw.githubusercontent.com/Yuvakrishna-J/Yuvakrishna-J/main/dashboard-uk.png" width="820" style="border-radius:8px"/>
 
 <br/>
 
@@ -201,8 +201,6 @@ print(me.motto())
 ---
 
 ## 📰 Research & Publications
-
-> *Alternate section — replaces Hackathons. Highlights published IEEE research.*
 
 <div align="center">
 
@@ -238,8 +236,6 @@ print(me.motto())
 ---
 
 ## 🔭 Open to Opportunities
-
-> *Alternate section — since I'm a 2026 fresher actively seeking my first full-time role.*
 
 <div align="center">
 
