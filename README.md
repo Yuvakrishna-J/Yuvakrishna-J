@@ -150,7 +150,7 @@ print(me.motto())
 > ![SEO](https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=white)
 > ![Google Analytics](https://img.shields.io/badge/Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
 
-- 🚀 Developed and deployed a fully responsive static digital storefront at [ramsiconstructionandinteriors.com](https://ramsiconstructionandinteriors.com) using HTML & CSS, managed via Vercel for high-speed global hosting
+- 🚀 Developed and deployed a fully responsive static digital storefront at [ramsiconstructionandinteriors.com](https://ramsiconstructionsandinteriors.com) using HTML & CSS, managed via Vercel for high-speed global hosting
 - 📈 Engineered a data-driven SEO strategy and optimized Google Business Profile, boosting regional brand visibility by **~35%**
 - 📊 Tracked and analyzed user engagement metrics via web analytics to guide iterative, measurable improvements
 
