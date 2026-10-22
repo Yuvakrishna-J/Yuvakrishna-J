@@ -21,6 +21,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-yuvakrishnaj23-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yuvakrishnaj23@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Yuvakrishna--J-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yuvakrishna-J)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-yuvakrishna--j-000000?style=flat-square&logo=vercel&logoColor=white)](https://yuvakrishna-j.vercel.app)
 
 </div>
 
@@ -86,6 +88,8 @@ print(me.motto())
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC2927?style=flat-square&logo=python&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFCD00?style=flat-square&logo=duckdb&logoColor=black)
+![Parquet](https://img.shields.io/badge/Apache%20Parquet-50ABF1?style=flat-square&logo=apache&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
@@ -150,7 +154,7 @@ print(me.motto())
 > ![SEO](https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=white)
 > ![Google Analytics](https://img.shields.io/badge/Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
 
-- 🚀 Developed and deployed a fully responsive static digital storefront at [ramsiconstructionandinteriors.com](https://ramsiconstructionsandinteriors.com) using HTML & CSS, managed via Vercel for high-speed global hosting
+- 🚀 Developed and deployed a fully responsive static digital storefront at [ramsiconstructionandinteriors.com](https://ramsiconstructionandinteriors.com) using HTML & CSS, managed via Vercel for high-speed global hosting
 - 📈 Engineered a data-driven SEO strategy and optimized Google Business Profile, boosting regional brand visibility by **~35%**
 - 📊 Tracked and analyzed user engagement metrics via web analytics to guide iterative, measurable improvements
 
@@ -164,6 +168,7 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
+| [🚕 **NYC Yellow Taxi Analytics — DuckDB Pipeline**](https://github.com/Yuvakrishna-J) | Python · DuckDB · SQL · Parquet · Power BI · DAX | **3.9M+ Parquet records** processed &bull; **$52.87M** Net Revenue isolated &bull; **$0.29M** disputes flagged via DAX &bull; In-memory pipeline eliminating legacy ETL latency |
 | [🛒 **E-Commerce Data Engineering & BI Pipeline**](https://github.com/Yuvakrishna-J/ecommerce-data-pipeline-bi) | Python · SQLAlchemy · MySQL · Power BI · DAX | **5,000+ records** ingested &bull; Normalized 3-table schema &bull; GMV dashboard &bull; Cohort segmentation (Active / At Risk / Churned) |
 | [📦 **B2B SaaS Customer Retention & Data Quality Pipeline**](https://github.com/Yuvakrishna-J/b2b-saas-retention-pipeline) | Python · MySQL 8.0 · Pandas · NumPy | **33,000+ transactions** · **5,000 users** &bull; **400+ duplicates quarantined** via CTEs &bull; M3 retention rate **72%–76%** |
 | [🧠 **AURA** — Neuro-Symbolic AI Conversational Agent](https://github.com/Yuvakrishna-J/AURA-NeuroSymbolic-Chatbot) | Python · RAG · T5-Small · DistilRoBERTa · ChromaDB | 🏆 **IEEE Best Paper** (AIMLA 2026) &bull; Top ~10% of 320+ submissions &bull; TF-IDF safety guardrails &bull; Gemini API fallback |
@@ -198,6 +203,31 @@ print(me.motto())
 
 </details>
 
+<details>
+<summary><b>🚕 Live Dashboard Preview — NYC Yellow Taxi Analytics (Power BI · Click to expand)</b></summary>
+
+<br/>
+
+<div align="center">
+
+**🌐 All Payment Methods — Full Overview**
+
+<img src="https://raw.githubusercontent.com/Yuvakrishna-J/Yuvakrishna-J/main/main_dash.png" width="820" style="border-radius:8px"/>
+
+<br/><br/>
+
+**💵 Filtered View — Cash Payments (Dynamic Slicer in action)**
+
+<img src="https://raw.githubusercontent.com/Yuvakrishna-J/Yuvakrishna-J/main/cash_dash.png" width="820" style="border-radius:8px"/>
+
+<br/>
+
+> 💡 *Built on a DuckDB in-memory pipeline processing 3.9M+ Parquet records — Power BI dashboard with DAX metrics tracking Net Revenue ($52.87M), Gross Metered Billings by payment method, Daily Trip Distance, Fare vs. Distance scatter analysis, and Average Fare by Passenger Count. Payment method slicer (Cash · Credit Card · Dispute · No Charge) updates all visuals dynamically.*
+
+</div>
+
+</details>
+
 ---
 
 ## 📰 Research & Publications
@@ -225,6 +255,7 @@ print(me.motto())
 | 🏅 | Achievement | Details |
 |:--:|:------------|:--------|
 | 🏆 | **IEEE AIMLA 2026 — Best Paper Award** | Top ~10% of 320+ submissions — AURA Neuro-Symbolic AI Conversational Agent |
+| 🚕 | **3.9M+ Parquet Records Processed** | DuckDB in-memory pipeline isolating **$52.87M** Net Revenue from **$0.29M** dispute/no-charge write-offs via DAX |
 | 🗄️ | **ETL Pipeline — 5,000+ Records Automated** | Engineered E-Commerce data pipeline with normalized 3-table MySQL schema + Power BI GMV dashboard |
 | 🔍 | **400+ Duplicates Quarantined** | B2B SaaS data quality pipeline from 33,000+ transactions using MySQL 8.0 CTEs and ROW_NUMBER() |
 | 📖 | **86% Extraction Accuracy** | Automated RegEx pipeline for unstructured JEE/NEET PDFs — Evo11ve project |
@@ -239,7 +270,7 @@ print(me.motto())
 
 <div align="center">
 
-I'm a **final-year student (Batch 2026)** looking to turn IEEE-award-winning research into real-world impact! 🚀
+I'm a **Recent graduate (Batch 2026)** looking to turn IEEE-award-winning research into real-world impact! 🚀
 
 | 💼 Target Role | 🔍 Type |
 |:--------------:|:-------:|
