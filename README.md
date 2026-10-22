@@ -14,8 +14,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yuvakrishna-J&style=flat-square&color=70a5fd&label=PROFILE+VIEWS)
-&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=Yuvakrishna-J&style=flat-square&color=70a5fd&label=PROFILE+VIEWS)](https://github.com/Yuvakrishna-J)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yuva--krishna--j-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuva-krishna-j)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-yuvakrishnaj23-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yuvakrishnaj23@gmail.com)
